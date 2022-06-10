@@ -8,7 +8,7 @@ Therefore, it should be theoretically possible to build a much simpler toolhead 
 
 
 # Development roadmap
-1) [IN PROGRESS] Develop proof of concept mount. The aim here is to mount the extruder, hot end, klicky and hot end fan. Concept CAD appears to work.__
+1) [IN PROGRESS] Develop proof of concept mount. The aim here is to mount the extruder, hot end, klicky and hot end fan. Concept CAD appears to work. <br />
 ![image](https://user-images.githubusercontent.com/12782053/173062311-2f274d69-b048-4eb7-8347-2fae9f4a7e07.png)
 
 2)  Develop part cooling fan shroud.
