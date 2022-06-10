@@ -6,6 +6,12 @@ After using the stealthburner toolhead, I found that it did not meet my needs. T
 
 Therefore, it should be theoretically possible to build a much simpler toolhead assembly that is a lot lighter. I am thinking somewhere along the lines of the VZbot toolhead, but applied to the Voron ecosystem.
 
+# Planned Features
+- Integrated Klicky probe mount into the head
+- ERCF compatibility
+- Dragon hotend for initial release, Rapido for future release
+- Orbiter V2.0 Extruder
+
 
 # Development roadmap
 1) [IN PROGRESS] Develop proof of concept mount. The aim here is to mount the extruder, hot end, klicky and hot end fan. Concept CAD appears to work. <br />
