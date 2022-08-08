@@ -1,5 +1,5 @@
 # MinX
-Extremely cut down and lightweight carriage for Voron V2.4 and Trident.
+Lightweight toolchanging for Voron V2.4 and Trident.
 
 # Motivation
 After using the stealthburner toolhead, I found that it did not meet my needs. The stealthburner toolhead is designed for many different hot end and extruder configurations, where I only use one (Orbiter + rapido).
