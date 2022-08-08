@@ -11,6 +11,7 @@ Therefore, it should be theoretically possible to build a much simpler toolhead 
 - ERCF compatibility
 - Rapido UHF hotend for release, other hotends to come after release if there is demand
 - Orbiter V2.0 Extruder
+- CPAP part cooler
 
 
 # Development roadmap
@@ -39,3 +40,4 @@ There are no release dates for anything - they will be completed when they are r
 The following modifications are required for this toolhead:
 1) Klicky mod
 2) Removal of cable chains - recommend using CANBUS toolhead PCB
+3) CPAP fan 
