@@ -1,7 +1,7 @@
 # MinX
 Lightweight toolchanging for Voron V2.4 and Trident.
 
-** Note: This is not being actively developed! I may revisit this again in the future **
+**Note: This is not being actively developed! I may revisit this again in the future**
 
 # Motivation
 After using the stealthburner toolhead, I found that it did not meet my needs. The stealthburner toolhead is designed for many different hot end and extruder configurations, where I only use one (Orbiter + rapido).
